@@ -17,7 +17,7 @@ void BSP_Init();
 int main(void)
 {
     BSP_Init();
-
+    int i;
     while (1)
     {
         Motor_LineSet(Flag);
