@@ -10,7 +10,7 @@
 #include "main.h"
 
 class Chassis
-///封装了地盘核心代码
+///封装了底盘核心代码
 {
 public:
     MotorC motors[4];
