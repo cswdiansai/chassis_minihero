@@ -1,0 +1,21 @@
+CMakeFiles/chassis_minihero.elf.dir/Core/Src/sysmem.c.obj: \
+ C:\Users\lenovo\Desktop\stm32-HAL\chassis_minihero\Core\Src\sysmem.c \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/errno.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/errno.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/reent.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/_ansi.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/newlib.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/_newlib_version.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/config.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/machine/ieeefp.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/features.h \
+ D:/arm-gnu-toolchain/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/cdefs.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/machine/_default_types.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/_types.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/machine/_types.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/lock.h \
+ D:/arm-gnu-toolchain/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/stdint.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/_intsup.h \
+ D:/arm-gnu-toolchain/arm-none-eabi/include/sys/_stdint.h
